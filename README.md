@@ -24,6 +24,13 @@
 
 </div>
 
+## Why this repo? Features compared to the official LaTeX template
+
+*   Publication-level typesetting (orcidlink, spacing between titles and figures/tables, biography)
+*   Structured compilation (optional figure-free mode, separate figures, tables, and sections)
+*   VSCode + Makefile compilation scripts
+
+
 ## Project Structure
 
 ```
